@@ -1,2 +1,2 @@
-# Combinations-of-recent-tasks
-The major tasks done so far
+# Basic-desktop-GUI-app-with-Tkinter
+It just receives information and submit with the submit button with a hello
